@@ -6,5 +6,16 @@ import { Component } from '@angular/core';
   styleUrl: './listar-pensamento.component.scss'
 })
 export class ListarPensamentoComponent {
-
+  listaPensamentos = [
+    {
+      conteudo: 'Tdszgsergheste',
+      autoria: 'Gabidgwsr',
+      modelo: 'modelo3'
+    },
+    {
+      conteudo: 'Tdszgsergheste',
+      autoria: 'Gabidgwsr',
+      modelo: 'modelo3'
+    }
+  ];
 }
