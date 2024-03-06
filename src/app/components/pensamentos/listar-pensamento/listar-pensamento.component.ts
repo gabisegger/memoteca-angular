@@ -7,15 +7,15 @@ import { Component } from '@angular/core';
 })
 export class ListarPensamentoComponent {
   listaPensamentos = [
-    {
-      conteudo: 'Tdszgsergheste',
-      autoria: 'Gabidgwsr',
-      modelo: 'modelo3'
-    },
-    {
-      conteudo: 'Tdszgsergheste',
-      autoria: 'Gabidgwsr',
-      modelo: 'modelo3'
-    }
+    // {
+    //   conteudo: 'Tdszgsergheste',
+    //   autoria: 'Gabidgwsr',
+    //   modelo: 'modelo3'
+    // },
+    // {
+    //   conteudo: 'Tdszgsergheste',
+    //   autoria: 'Gabidgwsr',
+    //   modelo: 'modelo3'
+    // }
   ];
 }
