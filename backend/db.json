@@ -1,22 +1,52 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "Editando pensamento",
-      "autoria": "Gabi",
-      "modelo": "modelo2"
+      "conteudo": "Utilizar a ferramenta angular CLI para criar um projeto Angular",
+      "autoria": "Curso Angular - Alura",
+      "modelo": "modelo3",
+      "id": 5
     },
     {
-      "id": 3,
-      "conteudo": "Angular é o melhor",
-      "autoria": "Gabi",
-      "modelo": "modelo3"
+      "conteudo": "Conhecer a estrutura de um componente Angular (HTML, CSS e TS)",
+      "autoria": "Curso Angular - Alura",
+      "modelo": "modelo1",
+      "id": 6
     },
     {
-      "conteudo": "Pensamento de teste",
-      "autoria": "Dev Angular",
+      "conteudo": "Entender como ocorre o fluxo de dados no componente",
+      "autoria": "Curso Angular - Alura",
       "modelo": "modelo2",
-      "id": 4
+      "id": 7
+    },
+    {
+      "conteudo": "Utilizar rotas para adicionar navegação dinâmica entre as telas da aplicação",
+      "autoria": "Curso Angular - Alura",
+      "modelo": "modelo1",
+      "id": 8
+    },
+    {
+      "conteudo": "Aprender o que são e como utilizar algumas das principais diretivas do Angular",
+      "autoria": "Curso Angular - Alura",
+      "modelo": "modelo3",
+      "id": 9
+    },
+    {
+      "conteudo": "Compreender o que são services e como utilizar injeção de dependências",
+      "autoria": "Curso Angular - Alura",
+      "modelo": "modelo1",
+      "id": 10
+    },
+    {
+      "conteudo": "Continue a codar... continue a codar... continue a codar... continue a codar... continue a codar... continue a codar... continue a codar... continue a codar... continue a codar... continue a codar... continue a codar... continue a codar... continue a codar...",
+      "autoria": "Dory programadora",
+      "modelo": "modelo2",
+      "id": 11
+    },
+    {
+      "conteudo": "Realizar a comunicação cliente-servidor através do HTTPClient para fazer requisições AJAX (Get, Post, Put e Delete)",
+      "autoria": "Curso Angular - Alura",
+      "modelo": "modelo3",
+      "id": 12
     }
   ]
 }
